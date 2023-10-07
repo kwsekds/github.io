@@ -5,7 +5,7 @@
 #### 主要教材：
   **PPT+ [ Bioinformatics Tutorial ]**(https://book.ncrnalab.org/teaching/)
  
- #### 参考书
+#### 参考书
  - 工具类
    《鸟哥的Linux私房菜－基础学习篇》
    《Quick R》online

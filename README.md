@@ -1,4 +1,4 @@
-# kawushaer.github.io
+# github.io
 # 生物信息学实践（笔记）
 
 ### 学习和参考资料
